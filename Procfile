@@ -1,1 +1,1 @@
-web: bundle exec ruby bnr_herd_nerd.rb -p $PORT
+web: bundle exec unicorn -p $PORT -c ./config/unicorn.rb
