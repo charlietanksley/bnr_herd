@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/charlietanksley/nerds_nerds_nerds.git
-  revision: 08ffcb359d0acc502f10d6995c5dc7a40dbd090b
+  revision: d2b464498459f26cd0c8563bf175a1f511543ff7
   specs:
-    nerds_nerds_nerds (0.0.1)
+    nerds_nerds_nerds (0.1.0)
       nokogiri
 
 GEM
